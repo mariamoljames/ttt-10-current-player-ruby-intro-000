@@ -4,8 +4,8 @@ def turn_count(board)
     if #{index}!="" && #{index}!=" "
       count+=1
     end
-    return count
   end
+  return count
 end
 
 def current_player(board)
